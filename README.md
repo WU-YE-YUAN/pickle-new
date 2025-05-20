@@ -1,2 +1,2 @@
-# pickle-new
-1132 金融大數據分析 金融看本與程式交易平台
+# Streamlit_Financial_Dashboard_Trading
+Streamlit Financial Dashboard and Program Trading
